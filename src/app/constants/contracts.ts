@@ -1,0 +1,1 @@
+export const CROWDFUNDING_FACTORY = "0xfcdee2addbd4d2324e691e28095b66ebc36e6fed";
